@@ -2,6 +2,6 @@
 
 void main()
 {
-	main
+	main y algo mas
 
 }
