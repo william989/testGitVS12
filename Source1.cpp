@@ -1,6 +1,0 @@
-asdfasdfasdf
-	asdfasdfasdf
-	asdfasd
-{
-
-}
