@@ -1,8 +1,8 @@
-#include "iostream.h"
+#include <iostream>
 
-void main()
+int main() 
 {
-	main y algo mas
-		esto tiene q ser nueva version
-
+std::cout << "Hello World!\n";
+system("PAUSE");
+return 0;
 }
