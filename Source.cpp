@@ -2,7 +2,7 @@
 
 int main() 
 {
-std::cout << "Hello World!\n";
+std::cout << "esto debe ser una nueva version!\n";
 system("PAUSE");
 return 0;
 }
